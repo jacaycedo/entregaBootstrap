@@ -1,0 +1,30 @@
+#banner
+{
+    background-color:rgb(71, 54, 45);
+    color: white;
+    margin: 0;
+}
+#menu
+{
+    background-color: orange;
+}
+#topMenu
+{
+    background-color: rgb(151, 129, 100);
+}
+#content
+{
+    background-color: lightgrey;
+}
+#impar
+{
+    background-color: palevioletred;
+}
+#par
+{
+    background-color:lightseagreen;
+}
+body
+{
+    text-align: center;
+}
